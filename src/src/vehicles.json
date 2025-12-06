@@ -1,0 +1,20 @@
+{
+  "vehicles": [
+    {
+      "name": "Storm Chaser",
+      "category": "dealership",
+      "stats": {
+        "speed_mph": 120,
+        "wind_threshold_mph": [80, 150]
+      }
+    },
+    {
+      "name": "Heavy Hauler",
+      "category": "warehouse",
+      "stats": {
+        "speed_mph": 80,
+        "wind_threshold_mph": [100, 180]
+      }
+    }
+  ]
+}
