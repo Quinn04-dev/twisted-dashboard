@@ -2,7 +2,7 @@
   "name": "twisted-dashboard",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://<Quinn04-dev>.github.io/twisted-dashboard",
+  "homepage": "https://<quinn04-dev>.github.io/twisted-dashboard",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
